@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Developer: [Wildchiken]
+//------------------------------------------------------------------
+[OUTPUT]     : "Template.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "MyAPP"
+[APPNAME]    : "@MyAPP"
+[VERSION]    : "01.00.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "MyApp"
+[MOD1_ICON]  : "eActivityIcon.bmp"
